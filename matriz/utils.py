@@ -11,6 +11,7 @@ def getText(x, y):
     else:
         return "MEDIA"
 
+
 def get_graph():
     buffer = BytesIO()
     plt.savefig(buffer, format="png")
@@ -22,9 +23,11 @@ def get_graph():
 
     return graph
 
+
 def get_plot(x, y):
     fig = plt.figure()
-    fig.suptitle(f'Matriz Complejidad Negocio vs Tecnología\nComplejidad {getText(x, y)}')
+    fig.suptitle(
+        f'Matriz Complejidad de Negocio vs Matriz Complejidad de Tecnología\nComplejidad {getText(x, y)}')
     plt.plot(x, y, marker="o", color="midnightblue", markersize=10)
     plt.fill_between(x=[8, 12], y1=8, y2=12, color="springgreen")
     plt.fill_between(x=[20, 24], y1=8, y2=24, color="orangered")

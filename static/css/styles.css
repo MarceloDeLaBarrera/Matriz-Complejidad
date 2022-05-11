@@ -37,6 +37,9 @@ html {
   .conjunto {
       width: calc(50% - 1rem);
       margin: 0 auto;
+      background: aliceblue;
+      border-radius: 5px;
+      border: solid;
   }
   .conjunto h2 {
       text-align: center;
@@ -57,13 +60,14 @@ html {
       text-align: center;
       margin: 20px auto;
       padding: 10px;
-      width: 300px;
+      width: 350px;
       background: #F4DB40;
       font-size: 30px;
+      color: #111224;
+      
   }
   .borrar a {
       text-decoration: none;
-      text-transform: uppercase;
   }
   .error {
       text-align: center;
