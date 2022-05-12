@@ -22,7 +22,7 @@ git push origin master
 
 ## Screenshots ⭐
 ![image](https://user-images.githubusercontent.com/52224826/167989427-66692809-9850-4947-be09-de7b2a2ac02c.png)
-![image](https://user-images.githubusercontent.com/52224826/167989724-86ad3de1-4776-409f-bbfc-c383b4193bef.png)
+![image](https://user-images.githubusercontent.com/52224826/167990656-804c5c0c-15fd-4bd2-b1a7-0084f0bcfa63.png)
 
 
 ## Requerimientos 📋
