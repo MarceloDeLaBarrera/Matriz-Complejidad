@@ -21,6 +21,8 @@ git push origin master
 ```
 
 ## Screenshot ⭐
+![image](https://user-images.githubusercontent.com/52224826/167989427-66692809-9850-4947-be09-de7b2a2ac02c.png)
+
 
 ## Requerimientos 📋
 
@@ -34,7 +36,7 @@ pip install virtualenv
 
 _Nota: Asegurarse de tener la ejecucion de scripts activada en el sistema, además de tener a virtualenv agregado en las variables de entorno una vez finalizada su instalación._
 
-## Instalación y despliegue del proyecto en localhost🔧
+## Instalación y despliegue del proyecto en localhost 🔧
 
 _Una vez instalado virtualenv, crear entorno virtual... Posicionese en carpeta del proyecto, y ejecute el siguiente comando en la terminal:_
 
