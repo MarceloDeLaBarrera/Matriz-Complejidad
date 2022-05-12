@@ -5,9 +5,9 @@
 - [Empezando](#Empezando-)
 - [Screenshot](#Screenshot-)
 - [Requerimientos](#Requerimientos-)
-- [Install and Run the project](#Instalación-y-despliegue-del-proyecto-en-localhost-)
-- [Built in](#Counstruido-en-%EF%B8%8F)
-- [Autor](#Autores-%EF%B8%8F)
+- [Instalación y despliegue del proyecto en localhost](#Instalación-y-despliegue-del-proyecto-en-localhost-)
+- [Construido en](#Counstruido-en-%EF%B8%8F)
+- [Autores](#Autores-%EF%B8%8F)
 
 ## Empezando 🚀
 
@@ -96,4 +96,4 @@ _Finalmente, deberá rellenar el formulario, y una vez completado, hacer click e
 ## Autores ✒️
 
 - **Marcelo De La Barrera** - [marcelodelabarrera](https://github.com/marcelodelabarrera)
-- **Marcelo De La Barrera** - [arielberoiza](https://github.com/MemoryL3ak)
+- **Ariel Beroiza** - [arielberoiza](https://github.com/MemoryL3ak)
