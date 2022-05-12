@@ -3,7 +3,7 @@
 ## Tabla de contenidos
 
 - [Empezando](#Empezando-)
-- [Screenshot](#Screenshot-)
+- [Screenshots](#Screenshots-)
 - [Requerimientos](#Requerimientos-)
 - [Instalación y despliegue del proyecto en localhost](#Instalación-y-despliegue-del-proyecto-en-localhost-)
 - [Construido en](#Counstruido-en-%EF%B8%8F)
@@ -20,8 +20,9 @@ git commit -m <"message">
 git push origin master
 ```
 
-## Screenshot ⭐
+## Screenshots ⭐
 ![image](https://user-images.githubusercontent.com/52224826/167989427-66692809-9850-4947-be09-de7b2a2ac02c.png)
+![image](https://user-images.githubusercontent.com/52224826/167989586-875e8283-0c77-470f-b499-4f313b759e59.png)
 
 
 ## Requerimientos 📋
