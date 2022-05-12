@@ -59,7 +59,7 @@ _Ahora, deberá instalar todas las dependencias a partir del archivo requeriment
 pip install -r .\requirements.txt
 ```
 
-Nota: Si desea desactivar entorno virtual, basta con escribir en la terminal:
+_Nota: Si desea desactivar entorno virtual, basta con escribir en la terminal:_
 
 ```
 deactivate
