@@ -86,7 +86,7 @@ _Con python manage.py runserver, se ejecutará el proyecto en localhost, la ruta
 http://127.0.0.1:8000/
 ```
 
-_Finalmente, deberá rellenar el formulario, y una vez completado, hacer click en el boton para calcular la complejidad, y desplegar así el gráfico asociado_
+_Finalmente, deberá rellenar el formulario, y una vez completado, hacer click en el boton para calcular la complejidad, y desplegar así el gráfico asociado._
 
 ## Counstruido en 🛠️
 
