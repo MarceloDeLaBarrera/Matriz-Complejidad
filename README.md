@@ -3,7 +3,7 @@
 ## Tabla de contenidos
 
 - [Empezando](#Empezando-)
-- [Screenshot](#Screenshot-)
+- [Screenshots](#Screenshots-)
 - [Requerimientos](#Requerimientos-)
 - [Instalación y despliegue del proyecto en localhost](#Instalación-y-despliegue-del-proyecto-en-localhost-)
 - [Construido en](#Counstruido-en-%EF%B8%8F)
@@ -20,7 +20,10 @@ git commit -m <"message">
 git push origin master
 ```
 
-## Screenshot ⭐
+## Screenshots ⭐
+![image](https://user-images.githubusercontent.com/52224826/167989427-66692809-9850-4947-be09-de7b2a2ac02c.png)
+![image](https://user-images.githubusercontent.com/52224826/167990656-804c5c0c-15fd-4bd2-b1a7-0084f0bcfa63.png)
+
 
 ## Requerimientos 📋
 
@@ -34,7 +37,7 @@ pip install virtualenv
 
 _Nota: Asegurarse de tener la ejecucion de scripts activada en el sistema, además de tener a virtualenv agregado en las variables de entorno una vez finalizada su instalación._
 
-## Instalación y despliegue del proyecto en localhost🔧
+## Instalación y despliegue del proyecto en localhost 🔧
 
 _Una vez instalado virtualenv, crear entorno virtual... Posicionese en carpeta del proyecto, y ejecute el siguiente comando en la terminal:_
 
@@ -83,7 +86,7 @@ _Con python manage.py runserver, se ejecutará el proyecto en localhost, la ruta
 http://127.0.0.1:8000/
 ```
 
-_Finalmente, deberá rellenar el formulario, y una vez completado, hacer click en el boton para calcular la complejidad, y desplegar así el gráfico asociado_
+_Finalmente, deberá rellenar el formulario, y una vez completado, hacer click en el boton para calcular la complejidad, y desplegar así el gráfico asociado._
 
 ## Counstruido en 🛠️
 
